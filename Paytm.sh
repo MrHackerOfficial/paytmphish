@@ -29,8 +29,9 @@ ngrok="$(ps -efw | grep ngrok | grep -v grep | awk '{print $2}')"
 kill -9 $php
 kill -9 $ngrok
 clear
-chmod 777 Logo.sh
-./Logo.sh
+toilet -f small -F gay -F border Mr Hacker |lolcat
+toilet -f small -F gay -F border Paytm Hack
+
 
 echo ""
 echo ""
