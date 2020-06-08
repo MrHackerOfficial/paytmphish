@@ -29,8 +29,8 @@ ngrok="$(ps -efw | grep ngrok | grep -v grep | awk '{print $2}')"
 kill -9 $php
 kill -9 $ngrok
 clear
-toilet -f small -F gay -F border Mr Hacker |lolcat
-toilet -f small -F gay -F border Paytm Hack
+toilet -f small -F gay -F border Mr HACKER|lolcat
+figlet -f slant PAYTM HACK
 
 
 echo ""
