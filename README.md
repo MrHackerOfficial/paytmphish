@@ -10,8 +10,8 @@
 # How to Intsall & Use
 root ---must !
 1. git clone https://github.com/MrHackerOfficial/paytmphish.git
-2. cd Paytm-Phishing
-3. chmod 777 setup.sh
+2. cd paytmphish
+3. chmod +x *
 4. ./setup.sh
 5. ./Paytm.sh
 
